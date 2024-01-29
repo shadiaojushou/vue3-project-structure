@@ -5,17 +5,17 @@
 
 ## 项目技术栈
 
-包管理工具：pnpm
-前端框架：Vue3
-状态管理器：Pinia
-UI组件库：Element-Plus
-Css样式：Sass、Postcss
-代码规范：Eslint、Prettier、StyleLInt StyleLint
-提交规范：CommitLint、Husky、LintStaged
-打包优化最佳配置：chunk分包和拆包
-图标库的依赖加载：unplugin-icons/vite
-依赖按需加载：unplugin-auto-import/vite
-组件按需导入：unplugin-vue-components
+包管理工具：pnpm \
+前端框架：Vue3 \
+状态管理器：Pinia \
+UI组件库：Element-Plus \
+Css样式：Sass、Postcss \
+代码规范：Eslint、Prettier、StyleLInt StyleLint \
+提交规范：CommitLint、Husky、LintStaged \
+打包优化最佳配置：chunk分包和拆包 \
+图标库的依赖加载：unplugin-icons/vite \
+依赖按需加载：unplugin-auto-import/vite \
+组件按需导入：unplugin-vue-components \
 
 ## 项目启动
 
